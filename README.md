@@ -1,4 +1,5 @@
 # AndroidAutoLayout
+[![](https://jitpack.io/v/toorup/AndroidAutoLayout.svg)](https://jitpack.io/#toorup/AndroidAutoLayout)
 [DEPRECATED]Android屏幕适配方案，直接填写设计图上的像素尺寸即可完成适配。
 
 >目前没有精力，已停止维护，使用前务必看明白代码，明确该方案可以解决自身问题，有扩展代码能力，否则不建议使用。
@@ -66,7 +67,7 @@ dependencies {
 
 ```
 dependencies {
-    compile 'com.zhy:autolayout:1.4.5'
+   implementation 'com.github.toorup:AndroidAutoLayout:Tag'
 }
 ```
 
